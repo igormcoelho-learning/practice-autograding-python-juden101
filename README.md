@@ -5,10 +5,14 @@
 **IMPORTANT:** If autograding (GitHub Actions) doesn't start for you, *check again the Invitation Link for
 the activity* and hit the link named **update**.
 
+If you want to try this open activity, see this invitation link: https://classroom.github.com/a/pEUy_63T
 
-## Full-Name-Of-Student
+If you want to learn more on GitHub Classroom see this post:  https://medium.com/swlh/easy-c-autograding-on-github-classroom-with-catch2-106ad1107402
 
-**TODO - Please put your name in this README**
+
+## Student Name
+
+Student Name: **TODO - Please put your name in this README**
 
 ## Problem Description
 
